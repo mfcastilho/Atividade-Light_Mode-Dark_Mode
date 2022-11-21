@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;600&display=swap');
+
+:root{
+  font-size: 10px;
+}
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body{
+  font-family: 'Quicksand'; 
+  background-color: #e5e8e8;
+	color: #4e545c;
+}
+
+
+/*===Body Dark Mode===*/
+body.dark-mode {
+	background-color: #000401;
+	color: #e5e8e8;
+}
+
+
+
+.main-container{
+  max-width: 1280px;
+  width: 100%;
+  height: 100vh;
+  margin: 0 auto;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.main-container h1{
+  font-size: 3rem;
+}
+
+.main-container button{
+  font-size: 1.8rem;
+  padding: .7rem 2rem;
+
+  border-radius: 2rem;
+  border: none;
+
+  background-color: #4e545c;
+	color: #e5e8e8;
+
+  transition: all 0.5s linear;
+
+  cursor: pointer;
+}
+
+.main-container button:hover{
+  background-color: #000401;
+}
+
+/*===Button Dark Mode===*/
+.main-container button.dark-mode {
+	background-color: #e5e8e8;
+	color: #4e545c;
+}
+
+.main-container button.dark-mode:hover {
+	background-color: #4e545c;
+	color: #e5e8e8;
+}
+
+
+
+
+
+
+
+footer{
+  
+  background-color: #4e545c;
+	color: #e5e8e8;
+  height: 4rem;
+}
+.footer-container{
+  max-width: 1280px;
+  width: 100%;
+  margin: 0 auto;
+
+  text-align: center;
+
+}
+
+.footer-container h4{
+  font-size: 1.6rem;
+  line-height: 4rem;
+}
+
+
