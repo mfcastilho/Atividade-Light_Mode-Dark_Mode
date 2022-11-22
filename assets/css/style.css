@@ -97,4 +97,9 @@ footer{
   line-height: 4rem;
 }
 
+footer.dark-mode {
+	background-color: #8d9797;
+	color: #000401;
+}
+
 
