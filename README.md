@@ -6,7 +6,7 @@
 <ul>
   <li>Crie uma estrutura básica de projeto front-end (HTML, CSS e JS)</li>
   <li>Crie um arquivo chamado main.js na sua pasta assets/js</li>
-  <li>Selecione os elementos necessários: button e body</li>
+  <li>Selecione os elementos necessários: h1, footer, button e body</li>
   <li>Se os elementos possuirem a classe dark-mode, modifique seus estilos.</li>
   <li>Caso contrário, volte os estilos para o original</li>
 </ul>
