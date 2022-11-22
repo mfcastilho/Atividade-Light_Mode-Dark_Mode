@@ -10,6 +10,8 @@
   box-sizing: border-box;
 }
 
+
+/*===Body===*/
 body{
   font-family: 'Quicksand'; 
   background-color: #e5e8e8;
@@ -25,6 +27,13 @@ body.dark-mode {
 
 
 
+
+
+
+/*===Main===*/
+main{
+ 
+}
 .main-container{
   max-width: 1280px;
   width: 100%;
@@ -76,9 +85,9 @@ body.dark-mode {
 
 
 
-
+/*===Footer===*/
 footer{
-  
+  width: 100%;
   background-color: #4e545c;
 	color: #e5e8e8;
   height: 4rem;
@@ -97,9 +106,42 @@ footer{
   line-height: 4rem;
 }
 
+
+/*===Footer Dark Mode===*/
 footer.dark-mode {
 	background-color: #8d9797;
 	color: #000401;
 }
 
 
+@media (max-width:240px){
+
+  main{
+    min-width:240px;
+  }
+  .main-container{
+    min-width: 240px;
+  }
+  
+  .main-container h1{
+    font-size: 2rem;
+  }
+  
+  .main-container button{
+    font-size: 1.8rem;
+    padding: .5rem 1rem;
+  }
+
+
+  footer{
+    min-width:260px;
+  }
+
+  
+  .footer-container{
+    min-width:260px;
+  }
+  .footer-container h4{
+    font-size: 1.2rem;
+  }
+}
