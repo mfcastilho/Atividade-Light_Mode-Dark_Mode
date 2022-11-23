@@ -2,7 +2,7 @@
 
 <h3>Projeto referente ao curso "Manipulando o DOM" da Digital Innovation One.</h3>
 
-<h3>Atividade: Light Mode/Dark Mode</h3>
+<h4>Atividade: Light Mode/Dark Mode</h4>
 <ul>
   <li>Crie uma estrutura básica de projeto front-end (HTML, CSS e JS)</li>
   <li>Crie um arquivo chamado main.js na sua pasta assets/js</li>
