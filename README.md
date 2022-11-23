@@ -1,6 +1,6 @@
 <h1>Light Mode/Dark Mode</h1>
 
-<h2>Projeto referente ao curso "Manipulando o DOM" da Digital Innovation One.</h2>
+<h3>Projeto referente ao curso "Manipulando o DOM" da Digital Innovation One.</h3>
 
 <h3>Atividade: Light Mode/Dark Mode</h3>
 <ul>
