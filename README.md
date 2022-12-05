@@ -11,7 +11,7 @@
   <li>Caso contrário, volte os estilos para o original</li>
 </ul>
 
-<h5>Deploy do projeto:<a href="https://mfcastilho.github.io/Atividade-Light_Mode-Dark_Mode/"> clique aqui</a></h5>
+<h5>- Deploy do projeto:<a href="https://mfcastilho.github.io/Atividade-Light_Mode-Dark_Mode/"> clique aqui</a></h5>
 
 
 
